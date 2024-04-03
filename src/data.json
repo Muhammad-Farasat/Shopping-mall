@@ -1,0 +1,46 @@
+{
+    "projects": [
+      {
+        "name": "Wireless Mouse",
+        "imageSrc": "./mouse.webp",
+        "altText": "",
+        "categories": ["Branding", "Photography"],
+        "price": "90"
+      },
+      {
+        "name": "Wireless KeyBoard",
+        "imageSrc": "https://zebronics.com/cdn/shop/products/ZEB-K5000MW-pic1.jpg?v=1648026336&width=2048",
+        "altText": "",
+        "categories": ["Branding", "Photography", "Designing"],
+        "price": "1,200"
+      },
+      {
+        "name": "Samsung S23",
+        "imageSrc": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/622160-Product-0-I-638239542689513934.jpg?v=1698811976",
+        "altText": "",
+        "categories": ["Branding", "Photography", "Marketing"],
+        "price": "100,000"
+      },
+      {
+        "name": "HP Laptop",
+        "imageSrc": "https://images.priceoye.pk/hp-pavilion-15-eg3020tx-15-6-inches-13th-gen-core-i7-windows-11-16gb-512-pakistan-priceoye-l6fak.jpg",
+        "altText": "",
+        "categories": ["Branding", "Photography", "Development"],
+        "price": "50,000"
+      },
+      {
+        "name": "Mobile Stand",
+        "imageSrc": "https://discountstorepk.com/cdn/shop/products/mobile2.jpg?v=1663969560&width=1445",
+        "altText": "",
+        "categories": ["Branding", "Photography", "DevOps"],
+        "price": "500"
+      },
+      {
+        "name": "Camera",
+        "imageSrc": "https://static-01.daraz.pk/p/2610708368611d914277085107ea2de6.jpg_750x750.jpg_.webp",
+        "altText": "",
+        "categories": ["Branding", "Photography", "Sales"],
+        "price": "120,000"
+      }
+    ]
+  }
